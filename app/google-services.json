@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474082450969",
+    "project_id": "techsamajh-76a47",
+    "storage_bucket": "techsamajh-76a47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474082450969:android:067207b5051fa2deb0d488",
+        "android_client_info": {
+          "package_name": "com.example.techsamajh_demo1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgMWYQkkyM5r62rdzm03gBZVPmimzqvmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
